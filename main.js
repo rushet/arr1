@@ -1,4 +1,4 @@
-let mountains = ['Panjab', 'Fuji', 'K3' , 'K4', 'K5'];
+let mountains = ['Panjab', 'Fuji', 'K3' , 'K4', 'K5main'];
 
 console.log(mountains[0]); 
 console.log(mountains[1]); 
