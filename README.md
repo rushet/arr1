@@ -1,2 +1,2 @@
 # arr1
-arrays
+arrays sample
