@@ -4,5 +4,5 @@ console.log(mountains[0]);
 console.log(mountains[1]); 
 console.log(mountains[2]); 
 console.log(mountains[1]);
-console.log(mountains[4]); 
+console.log(mountains[3]); 
  
